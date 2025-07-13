@@ -1,1 +1,1 @@
-git clone https://github.com/nginx/nginx.git
+FROM nginx:1.25.3-alpine  
